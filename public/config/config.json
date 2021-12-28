@@ -11,7 +11,7 @@
   "MAX_SUPPLY": 800,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 4,
-  "GAS_LIMIT": 285000,
+  "GAS_LIMIT": 300000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/snow-globe-v2",
   "SHOW_BACKGROUND": true
