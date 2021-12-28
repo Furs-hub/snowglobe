@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xD3e1664050F03e96fD38B2fb558f5bF1b92ec442",
-  "SCAN_LINK": "https://polygonscan.com/address/0xd3e1664050f03e96fd38b2fb558f5bf1b92ec442",
+  "CONTRACT_ADDRESS": "0x447B70902d05d5F4813c7ee42cD56DB312aB1131",
+  "SCAN_LINK": "https://polygonscan.com/address/0x447b70902d05d5f4813c7ee42cd56db312ab1131",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
-  "NFT_NAME": "New Year",
-  "SYMBOL": "NY",
+  "NFT_NAME": "Snow Globe V2",
+  "SYMBOL": "SG",
   "MAX_SUPPLY": 15,
   "WEI_COST": 4000000000000000000,
   "DISPLAY_COST": 0.1,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/new-year-uok5o2pd0e",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/snow-globe-v2",
   "SHOW_BACKGROUND": true
 }
